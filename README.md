@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description.
 # The Unix Workbench by Johns Hopkins University
 
 The makefile was last executed on:
